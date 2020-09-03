@@ -1,0 +1,17 @@
+user
+papakobina
+GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin19)
+Copyright (C) 2007 Free Software Foundation, Inc.
+vs code version info
+1.48.2
+a0479759d6e9ea56afa657e454193f72aef85bd0
+x64
+git version 2.28.0
+git user name
+Papa Kobina
+git user email
+papa.bosomtwe@ashesi.edu.gh
+node version
+v14.9.0
+npm version
+6.14.8
