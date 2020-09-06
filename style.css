@@ -6,9 +6,9 @@
 }
 
 .nav a:hover{
-    background-color: blue;
+    background-color: aquamarine;
 }
 
 .nav .current{
-    background-color: blue;
+    background-color: aquamarine;
 }
